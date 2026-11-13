@@ -2,7 +2,7 @@
 
 ### QA Testing | AI Training & Evaluation | Software Quality
 
-I'm a technology enthusiast with an academic background in Systems Engineering and a strong interest in software quality, accessibility, and artificial intelligence.
+I'm a technology enthusiast withan academic background in Systems Analysis and knowledge of web development and a strong interest in software quality, accessibility, and artificial intelligence.
 
 I enjoy analyzing digital products, identifying issues, evaluating outputs, and improving user experiences through structured testing and critical thinking.
 
@@ -50,11 +50,9 @@ New case studies and testing documentation will be published here.
 
 ---
 
-### Let's Connect!
+## Contact
 
-I'm open to opportunities in:
+- GitHub: https://github.com/macampsdev-sys
+- Location: La Plata, Argentina
 
-**QA Testing | AI Training | AI Data Annotation | AI Response Evaluation**
-
-📍 La Plata, Argentina
-
+Open to opportunities in QA Testing, AI Training & Evaluation, and Software Quality.
