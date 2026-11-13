@@ -37,11 +37,22 @@ I'm currently building a hands-on portfolio focused on **Quality Assurance and A
 - Structured documentation and clear communication.
 - Curiosity and continuous learning.
 
+
 ## 📂 Portfolio Projects
 
-I'm currently developing practical projects to demonstrate my skills in QA Testing and AI Quality Evaluation.
+### Quality Assurance Testing Portfolio
 
-New case studies and testing documentation will be published here.
+A practical QA demonstration project covering manual testing, test case design, bug reporting, requirements traceability, and REST API testing.
+
+- [View QA Testing Portfolio](https://github.com/macampsdev-sys/qa-testing-portfolio)
+- Test planning and documentation
+- Manual testing scenarios
+- Defect reporting
+- API testing with Postman
+
+### AI Quality Evaluation
+
+Currently expanding my portfolio with projects focused on AI response evaluation, content quality, and data annotation.
 
 ## 🌎 Languages
 
